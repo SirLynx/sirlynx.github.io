@@ -16,6 +16,6 @@ p {
 
 .LogoText {
     color: white;
-    text-align: center;
+    text-align: center !important;
     font-size: 150px;
 }
