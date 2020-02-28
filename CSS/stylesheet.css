@@ -14,3 +14,8 @@ p {
     color: white !important;
 }
 
+.LogoText {
+    color: white;
+    text-align: center;
+    font-size: 150px;
+}
